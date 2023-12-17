@@ -1,7 +1,7 @@
 # uni_project_web_programming
 web music player
 
-#Ps. You need to click on the (main) thingy up next to the name of the repository and choose (web_music_player)
+# PS. You need to click on the (main) thingy up next to the name of the repository and choose (web_music_player)
 
 # Instructions on using this website:
 • You need XAMPP (https://www.apachefriends.org/) </br>
