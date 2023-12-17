@@ -2,6 +2,7 @@
 web music player
 
 # PS. You need to click on the (main) thingy up next to the 2 branches thingy and choose (web_music_player)
+you need to extract the includes.rar file after you download it
 
 # Instructions on using this website:
 • You need XAMPP (https://www.apachefriends.org/) </br>
