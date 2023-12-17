@@ -3,7 +3,7 @@ web music player
 
 # Instructions on using this website:
 You need XAMPP (https://www.apachefriends.org/)
-• And it's recommended to install it on the C drive
+And it's recommended to install it on the C drive
 • Once installed you need to launch it and enable MySQL and Apache
 • After that copy the folder that you downloaded and paste it in the folder called (htdocs) in the (xampp) folder
 • If you downloaded the files instead then just create a new folder in (htdocs) and paste your files in said foder
